@@ -1,0 +1,20 @@
+state={
+	id=970
+	name="STATE_970" ##Multan
+	manpower = 13665000
+	
+	state_category = megalopolis
+
+	history={
+		victory_points = {
+			1107 75
+		}
+		owner = RAJ
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		add_core_of = RAJ
+	}
+	provinces={ 10898 12792 8007 10139 8106 4998 1978 7903 7975 1107 4990
+  }
+}
