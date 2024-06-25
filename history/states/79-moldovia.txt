@@ -8,8 +8,9 @@ state=
 	
 	history=
 	{
-		owner = ZUR
-		add_claim_by = ZUR
+		owner = YUG
+add_claim_by = YUG
+		
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

@@ -10,7 +10,8 @@ state=
 		victory_points = {
 			11999 1
 		}
-		owner = ENG
+		owner = TUN
+		add_core_of = TUN
 		buildings = {
 			infrastructure = 2
 		}

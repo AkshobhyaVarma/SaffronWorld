@@ -12,7 +12,7 @@ state={
 			9388 1
 		}
 		owner = GER
-		add_claim_by = ZUR
+		
 		buildings = {
 			infrastructure = 3
 			fuel_silo = 1

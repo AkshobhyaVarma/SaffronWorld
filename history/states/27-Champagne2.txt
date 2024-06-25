@@ -12,6 +12,7 @@ state={
 
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		victory_points = {
 			3652 5 
 		}
@@ -21,7 +22,7 @@ state={
 			air_base = 2
 		}
 		add_core_of = FRA
-		add_claim_by = ZUR
+		
 	}
 
 	provinces={

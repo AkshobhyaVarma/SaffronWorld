@@ -6,7 +6,8 @@ state={
 
 	history={
 		add_core_of = BAS
-		owner = ENG
+		owner = USA
+		add_claim_by = USA
 		buildings = {
 			infrastructure = 2
 			11350 = {

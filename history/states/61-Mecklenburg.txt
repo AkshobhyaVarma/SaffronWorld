@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = GER
-		add_claim_by = ZUR
+		
 		victory_points = {
 			321 5
 		}

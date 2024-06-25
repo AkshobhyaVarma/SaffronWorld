@@ -6,8 +6,9 @@ state = {
 	state_category = enclave
 	
 	history = {
-		owner = ZUR
-		add_claim_by = ZUR
+		owner = YUG
+add_claim_by = YUG
+		
 		victory_points = { #Zara/Zadar
 			3943 5 
 		}

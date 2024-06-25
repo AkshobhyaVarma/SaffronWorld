@@ -11,6 +11,7 @@ state={
 
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		victory_points = {
 			11834 10
 		}
@@ -26,7 +27,7 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_claim_by = ZUR
+		
 		add_core_of = FRA
 		1939.1.1 = {
 			buildings = {

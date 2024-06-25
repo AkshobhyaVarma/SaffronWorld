@@ -8,6 +8,8 @@ state={
 
 	history={
 		owner = UKR
+add_core_of = SOV
+add_claim_by = UKR
 		victory_points = {
 			9340 5 
 		}

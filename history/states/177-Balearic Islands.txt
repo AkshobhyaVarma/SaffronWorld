@@ -11,7 +11,8 @@ state=
 		victory_points = {
 			9793 1
 		}
-		owner = SPR
+		owner = ZUR
+add_claim_by = ZUR
 		buildings = {
 			infrastructure = 3 #was: 6
 			air_base = 1
@@ -23,6 +24,7 @@ state=
 			}
 		}
 		add_core_of = SPR
+
 	}
 	provinces=
 	{

@@ -11,12 +11,13 @@ state={
 			651 1
 		}
 		owner = ZUR
+add_claim_by = ZUR
 		
 		buildings = {
 			infrastructure = 3
 		}
 		add_core_of = FRA
-		add_claim_by = ZUR
+		
 	}
 
 	provinces={

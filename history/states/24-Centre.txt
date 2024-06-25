@@ -9,6 +9,7 @@ state={
 
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		victory_points = {
 			3671 10
 		}
@@ -21,7 +22,7 @@ state={
 
 		}
 		add_core_of = FRA
-		add_claim_by = ZUR
+		
 	}
 
 	provinces={

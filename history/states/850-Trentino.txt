@@ -11,11 +11,12 @@ state = {
 			9598 1
 		}
 		owner = ZUR
+add_claim_by = ZUR
 		buildings = {
 			infrastructure = 2 #was 3 before split
 		}
 		add_core_of = ITA
-		add_claim_by = ZUR
+		
 		add_claim_by = AUS
 	}
 

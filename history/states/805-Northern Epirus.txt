@@ -13,8 +13,9 @@ state={
 	state_category = pastoral
 
 	history= {
-		owner = ZUR
-		add_claim_by = ZUR
+		owner = YUG
+add_claim_by = YUG
+		
 		victory_points = {
 			914 1
 		}

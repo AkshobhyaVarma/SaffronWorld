@@ -13,13 +13,14 @@ state={
 
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = {
 			3768 1 
 		}
-		add_claim_by = ZUR
+		
 		add_core_of = FRA
 	}
 

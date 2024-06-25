@@ -7,8 +7,9 @@ state={
 		victory_points = {
 			6940 3 
 		}
-		owner = ZUR
-		add_claim_by = ZUR
+		owner = YUG
+add_claim_by = YUG
+		
 		buildings = {
 			infrastructure = 1
 

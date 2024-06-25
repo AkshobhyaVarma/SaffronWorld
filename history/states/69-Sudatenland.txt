@@ -21,7 +21,7 @@ state=
 			11401 3
 		}
 		owner = GER
-		add_claim_by = ZUR
+		
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2

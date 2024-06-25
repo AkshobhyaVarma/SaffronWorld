@@ -6,7 +6,8 @@ state = {
 
 	history = {
 
-		owner = ECU
+		owner = USA
+		add_claim_by = USA
 		add_core_of = ECU
 
 		buildings = {

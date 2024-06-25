@@ -6,12 +6,13 @@ state={
 	state_category = pastoral
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
 		add_claim_by = GER
-		add_claim_by = ZUR
+		
 	}
 	provinces={
 		6678 6680 

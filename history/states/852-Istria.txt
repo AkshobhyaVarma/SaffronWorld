@@ -8,7 +8,8 @@ state = {
 
 
 	history = {
-		owner = ZUR
+		owner = YUG
+add_claim_by = YUG
 		victory_points = { #Fiume (Rijeka)
 			11564 1 
 		}
@@ -20,7 +21,7 @@ state = {
 			}
 		}
 		add_core_of = ITA
-		add_claim_by = ZUR
+		
 		add_core_of = CRO
 		add_core_of = LBV
 

@@ -6,7 +6,8 @@ state = {
 
 	history = {
 		owner = ZUR
-		add_claim_by = ZUR
+add_claim_by = ZUR
+		
 		add_core_of = FRA
 		add_claim_by = SPM
 		victory_points = {

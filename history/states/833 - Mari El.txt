@@ -11,10 +11,11 @@ state = {
 			9402 1 
 		}
 		owner = SOV
+add_core_of = SOV
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = SOV
+		
 		add_core_of = MEL
 	}
 

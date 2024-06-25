@@ -14,6 +14,7 @@ state={
 
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		victory_points = {
 			9898 1 
 		}
@@ -22,7 +23,7 @@ state={
 			industrial_complex = 2
 			air_base = 2
 		}
-		add_claim_by = ZUR
+		
 		add_core_of = FRA
 	}
 

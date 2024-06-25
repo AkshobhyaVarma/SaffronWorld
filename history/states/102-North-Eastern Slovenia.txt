@@ -8,7 +8,8 @@ state=
 	
 	history =
 	{
-		owner = ZUR
+		owner = YUG
+add_claim_by = YUG
 		buildings = {
 			infrastructure = 3
 		}
@@ -16,7 +17,7 @@ state=
 			665 1
 		}
 		add_core_of = YUG
-		add_claim_by = ZUR
+		
 		add_core_of = SLV
 	}
 	provinces={

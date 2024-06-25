@@ -8,13 +8,14 @@ state={
 	state_category = large_town
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
 			620 5
 		}
-		add_claim_by = ZUR
+		
 		add_core_of = FRA
 	}
 

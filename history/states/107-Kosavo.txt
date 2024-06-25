@@ -4,8 +4,9 @@ state={
 	name="STATE_107"
 
 	history={
-		owner = ZUR
-		add_claim_by = ZUR
+		owner = YUG
+add_claim_by = YUG
+		
 		buildings = {
 			infrastructure = 3
 			arms_factory = 3

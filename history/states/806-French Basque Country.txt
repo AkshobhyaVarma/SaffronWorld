@@ -5,10 +5,11 @@ state={
 
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		victory_points = {
 			9710 3 
 		}
-		add_claim_by = ZUR
+		
 		buildings = {
 			infrastructure = 3 #was: 6
 

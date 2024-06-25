@@ -3,7 +3,8 @@ state={
 	name="STATE_793"
 
 	history={
-		owner = SPR
+		owner = ZUR
+add_claim_by = ZUR
 		victory_points = {
 			3945 1 
 		}
@@ -13,6 +14,7 @@ state={
 
 		}
 		add_core_of = SPR
+
 
 	}
 

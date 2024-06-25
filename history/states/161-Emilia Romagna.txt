@@ -12,6 +12,7 @@ state = {
 
 	history = {
 		owner = ZUR
+add_claim_by = ZUR
 		victory_points = { #Bologna
 			6606 5
 		}
@@ -30,7 +31,7 @@ state = {
 			}
 		}
 		add_core_of = ITA
-		add_claim_by = ZUR
+		
 	}
 
 	provinces = {

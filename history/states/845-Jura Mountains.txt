@@ -9,6 +9,7 @@ state={
 	state_category = large_town
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		victory_points = { 9638 5 }
 		victory_points = { 6666 5 }
 		buildings = {
@@ -16,7 +17,7 @@ state={
 			arms_factory = 1
 			industrial_complex = 2
 		}
-		add_claim_by = ZUR
+		
 	}
 	provinces={
 		6666 6683 9622 9638 13124 

@@ -33,7 +33,7 @@ state={
 		#	11612 3
 		#}
 		add_claim_by = GER
-		add_claim_by = ZUR
+		
 	}
 
 	provinces={

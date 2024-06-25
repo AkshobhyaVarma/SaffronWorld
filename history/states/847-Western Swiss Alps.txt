@@ -8,11 +8,12 @@ state={
 	}
 	history={
 		owner = ZUR
+add_claim_by = ZUR
 		buildings = {
 			infrastructure = 1 
 			industrial_complex = 1
 		}
-		add_claim_by = ZUR
+		
 	}
 	provinces={
 		636 9587 3612 9618  

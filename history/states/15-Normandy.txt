@@ -11,7 +11,8 @@ state={
 
 	history={
 		owner = ZUR
-		add_claim_by = ZUR
+add_claim_by = ZUR
+		
 		victory_points = {
 			9434 10
 		}

@@ -11,10 +11,12 @@ state={
 			9449 1
 		}
 		owner = UKR
+add_core_of = SOV
+add_claim_by = UKR
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
-		add_core_of = SOV
+		
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 1

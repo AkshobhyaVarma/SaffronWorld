@@ -12,10 +12,12 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = POL
-		add_claim_by = ZUR
+		
 
 		1939.3.14 = {
 			owner = UKR
+add_core_of = SOV
+add_claim_by = UKR
 			controller = POL
 		}
 	}

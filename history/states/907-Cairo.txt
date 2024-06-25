@@ -5,7 +5,8 @@ state={
 	state_category=town
 
 	history={
-		owner = ENG
+		owner = TUN
+		add_core_of = TUN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

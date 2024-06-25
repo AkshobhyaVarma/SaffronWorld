@@ -3,7 +3,8 @@ state={
 	name="STATE_176"
 
 	history={
-		owner = SPR
+		owner = ZUR
+add_claim_by = ZUR
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
@@ -13,6 +14,7 @@ state={
 			885 3 
 		}
 		add_core_of = SPR
+
 
 	}
 
