@@ -16,6 +16,9 @@ add_claim_by = ZUR
 		victory_points = {
 			3652 5 
 		}
+		victory_points = {
+			9490 5 
+		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
@@ -26,7 +29,7 @@ add_claim_by = ZUR
 	}
 
 	provinces={
-		551 648 667 680 817 3506 3533 3652 3669 3681 6531 9609 9625 9644 9490 9642 9658 11628 11732 
+		551 648 667 680 817 3506 3533 3652 3669 3681 6531 9609 9625 9644 9490 9642 9658 11628 11732  3646
 	}
 
 	local_supplies=0.0 

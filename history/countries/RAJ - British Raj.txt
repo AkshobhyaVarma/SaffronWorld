@@ -18,9 +18,16 @@ if = {
 		}
 	}
 }
-
-set_stability = 0.6
-set_war_support = 0.1
+puppet = ZUR
+puppet = GER
+puppet = UKR
+puppet = KAZ
+puppet = CHI
+puppet = SIA
+puppet = IRQ
+set_research_slots = 5
+set_stability = 1.0
+set_war_support = 0.2
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

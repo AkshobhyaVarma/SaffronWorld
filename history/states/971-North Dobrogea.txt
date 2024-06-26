@@ -1,6 +1,6 @@
 state={
 	id=971
-	name="STATE_971" ##Multan
+	name="STATE_971" ##north Dobrogea
 	manpower = 250000
 	
 	state_category = town

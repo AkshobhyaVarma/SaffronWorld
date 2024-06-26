@@ -1,0 +1,18 @@
+state={
+	id=973
+	name="STATE_973" ##Chattisgarh
+	manpower = 2500000
+	
+	state_category = large_town
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		add_core_of = RAJ
+		
+	}
+	provinces={  1579 12490 1622 7465 10171 12114 4557 12420 7574 10401 12375 1510 7497 12480
+  }
+}
